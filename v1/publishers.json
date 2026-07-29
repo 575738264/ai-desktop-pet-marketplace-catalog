@@ -1,0 +1,16 @@
+{
+  "catalog": {
+    "expiresAt": "2026-09-27T08:34:19.031Z",
+    "issuedAt": "2026-07-29T08:34:19.031Z",
+    "kind": "external-skill-marketplace-publisher-catalog.v1",
+    "publishers": [],
+    "sequence": 1
+  },
+  "kind": "external-skill-marketplace-publisher-catalog-envelope.v1",
+  "signature": {
+    "algorithm": "ed25519",
+    "digest": "sha256:canonical-marketplace-publisher-catalog-v1",
+    "keyId": "ai-desktop-pet-market-root-2026-v2",
+    "signature": "CkCcFFZyVVOZAXG1tqPDgK2K2GOiKCwMrBjg2xy9pVkd9kACkasULMf6iHNETXcVH/uOEU/i9dQxVCcOPZrbAw=="
+  }
+}
